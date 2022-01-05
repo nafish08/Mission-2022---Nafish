@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding-top: 100px;
+    padding-left: 0;
+}
+.top-section{
+    display: flex;
+    padding: 4%;
+    padding-left: 156px;
+}
+.top-seciton-child{
+    width: 50%;
+}
+.top-seciton-child h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    line-height: 80px;
+    font-weight: 400;
+    border-left: 5px solid #FF5959;
+    padding-left: 10px;
+}
+.orange-text{
+    color: orange;
+}
+.explore-now-btn{
+    display: inline-block;
+    text-decoration: none;
+    background: #FF5959;
+    color: white;
+    border-radius: 5px;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+.top-seciton-child img{
+    margin-left: 200px;
+    width: 300px;
+}
+.second-sec-heading{
+    text-align: center;
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: 700px;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 156px;
+    padding-right: 156px;
+}
+.second-section-child{
+    width: 360px;
+    height: 300px;
+    border-radius: 26px;
+    padding: 30px;
+}
+.second-section-child h3{
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 36px;
+}
+.mission{
+    background: rgba(79, 157, 166, 0.1);
+}
+.vission{
+    background: rgba(255, 89, 89, 0.1);
+    margin-left: 20px;
+}
+.goals{
+    background: #FFF4D6;
+    margin-left: 20px;
+}
+.second-section-child img{
+    width: 126px;
+    height: 126px;
+}
+
+.third-section{
+    display: flex;
+    padding: 156px;
+}
+.third-section-child{
+    width: 50%;
+}
+.third-section-child img{
+    width: 400px;
+    height: 400px;
+}
+#coding-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 227px 227px;
+    background-position-x: 50px;
+}
+.read-more-btn{
+    display: inline-block;
+    text-decoration: none;
+    background: #FF5959;
+    color: white;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+.fourth-section{
+    display: flex;
+    padding-bottom: 200px;
+    padding-right: 156px;
+}
+.fourth-section-child{
+    width: 50%;
+    padding-left: 156px;
+}
+.fourth-section-child img{
+    width: 400px;
+    height: 400px;
+}
+#coding-img2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 227px 227px;
+    background-position-y: 250px;
+    background-position-x: 1030px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 39px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: white;
+}
+footer p{
+    color: white;
+}
+.red-text{
+    color: tomato;
+}
