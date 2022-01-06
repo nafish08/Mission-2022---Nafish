@@ -1,6 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding-top: 100px;
     padding-left: 0;
@@ -12,6 +11,10 @@ body{
 }
 .top-seciton-child{
     width: 50%;
+}
+#top-sec-paragraph{
+    font-size: 18px;
+    line-height: 30px;
 }
 .top-seciton-child h1{
     font-family: 'Yeseva One', cursive;
@@ -37,7 +40,7 @@ body{
     margin-left: 200px;
     width: 300px;
 }
-.second-sec-heading{
+.second-sec-heading{  
     text-align: center;
     font-size: 48px;
     line-height: 70px;
@@ -50,14 +53,16 @@ body{
 }
 .second-section-child{
     width: 360px;
-    height: 300px;
+    height: 400px;
     border-radius: 26px;
     padding: 30px;
 }
-.second-section-child h3{
+.h3-heading{
     font-size: 24px;
-    font-weight: 600px;
-    line-height: 36px;
+}
+.second-section-child p{
+    font-size: 16px;
+    line-height: 24px;
 }
 .mission{
     background: rgba(79, 157, 166, 0.1);
@@ -71,13 +76,19 @@ body{
     margin-left: 20px;
 }
 .second-section-child img{
-    width: 126px;
     height: 126px;
 }
 
 .third-section{
     display: flex;
     padding: 156px;
+}
+.third-sec-heading{
+    font-size: 36px;
+}
+#third-sec-paragraph{
+    font-size: 18px;
+    line-height: 30px;
 }
 .third-section-child{
     width: 50%;
@@ -106,6 +117,13 @@ body{
     display: flex;
     padding-bottom: 200px;
     padding-right: 156px;
+}
+.fourth-sec-heading{
+    font-size: 36px;  
+}
+#fourth-sec-paragraph{
+    font-size: 18px;
+    line-height: 30px;
 }
 .fourth-section-child{
     width: 50%;
