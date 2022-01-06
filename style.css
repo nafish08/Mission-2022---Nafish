@@ -8,6 +8,7 @@ body{
     display: flex;
     padding: 4%;
     padding-left: 156px;
+    padding-top: 0;
 }
 .top-seciton-child{
     width: 50%;
@@ -27,7 +28,7 @@ body{
     position: absolute;
     border-left: 6px solid #FF5959;
     height: 125px;
-    top: 220px;
+    top: 165px;
 }
 .orange-text{
     color: orange;
@@ -44,6 +45,7 @@ body{
 .top-seciton-child img{
     margin-left: 200px;
     width: 300px;
+    margin-top: 60px;
 }
 .second-sec-heading{  
     text-align: center;
