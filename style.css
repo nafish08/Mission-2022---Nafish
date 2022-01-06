@@ -4,6 +4,9 @@ body{
     padding-top: 100px;
     padding-left: 0;
 }
+
+/*Top Section*/
+
 .top-section{
     display: flex;
     padding: 4%;
@@ -47,6 +50,9 @@ body{
     width: 300px;
     margin-top: 60px;
 }
+
+/*2nd Section*/
+
 .second-sec-heading{  
     text-align: center;
     font-size: 48px;
@@ -86,6 +92,8 @@ body{
     height: 126px;
 }
 
+/*3rd Section*/
+
 .third-section{
     display: flex;
     padding: 156px;
@@ -123,6 +131,8 @@ body{
     padding: 12px;
 }
 
+/*4th Section*/
+
 .fourth-section{
     display: flex;
     padding-bottom: 200px;
@@ -154,6 +164,8 @@ body{
     background-position-y: 250px;
     background-position-x: 1030px;
 }
+
+/*Bottom Section*/
 
 .bottom-container{
     display: flex;
@@ -191,6 +203,8 @@ body{
 .bottom-section-child img{
     height: 126px;
 }
+
+/*Footer Part*/
 
 footer{
     background-color: black;
